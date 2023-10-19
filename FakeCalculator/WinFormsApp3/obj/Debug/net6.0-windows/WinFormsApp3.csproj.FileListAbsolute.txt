@@ -1,0 +1,107 @@
+C:\Users\khanh\Documents\Zalo Received Files\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.exe
+C:\Users\khanh\Documents\Zalo Received Files\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.deps.json
+C:\Users\khanh\Documents\Zalo Received Files\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\khanh\Documents\Zalo Received Files\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.dll
+C:\Users\khanh\Documents\Zalo Received Files\WinFormsApp3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.pdb
+C:\Users\khanh\Documents\Zalo Received Files\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.Form1.resources
+C:\Users\khanh\Documents\Zalo Received Files\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.Properties.Resources.resources
+C:\Users\khanh\Documents\Zalo Received Files\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\khanh\Documents\Zalo Received Files\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanh\Documents\Zalo Received Files\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\khanh\Documents\Zalo Received Files\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\khanh\Documents\Zalo Received Files\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\khanh\Documents\Zalo Received Files\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.dll
+C:\Users\khanh\Documents\Zalo Received Files\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\refint\WinFormsApp3.dll
+C:\Users\khanh\Documents\Zalo Received Files\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.pdb
+C:\Users\khanh\Documents\Zalo Received Files\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\khanh\Documents\Zalo Received Files\WinFormsApp3\WinFormsApp3\obj\Debug\net6.0-windows\ref\WinFormsApp3.dll
+D:\programfile\zalo\Zalo Received Files\WinFormsApp3 (1)\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.exe
+D:\programfile\zalo\Zalo Received Files\WinFormsApp3 (1)\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.deps.json
+D:\programfile\zalo\Zalo Received Files\WinFormsApp3 (1)\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.runtimeconfig.json
+D:\programfile\zalo\Zalo Received Files\WinFormsApp3 (1)\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.dll
+D:\programfile\zalo\Zalo Received Files\WinFormsApp3 (1)\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.pdb
+D:\programfile\zalo\Zalo Received Files\WinFormsApp3 (1)\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+D:\programfile\zalo\Zalo Received Files\WinFormsApp3 (1)\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.Form1.resources
+D:\programfile\zalo\Zalo Received Files\WinFormsApp3 (1)\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.Properties.Resources.resources
+D:\programfile\zalo\Zalo Received Files\WinFormsApp3 (1)\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+D:\programfile\zalo\Zalo Received Files\WinFormsApp3 (1)\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+D:\programfile\zalo\Zalo Received Files\WinFormsApp3 (1)\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+D:\programfile\zalo\Zalo Received Files\WinFormsApp3 (1)\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AssemblyInfo.cs
+D:\programfile\zalo\Zalo Received Files\WinFormsApp3 (1)\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+D:\programfile\zalo\Zalo Received Files\WinFormsApp3 (1)\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.dll
+D:\programfile\zalo\Zalo Received Files\WinFormsApp3 (1)\WinFormsApp3\obj\Debug\net6.0-windows\refint\WinFormsApp3.dll
+D:\programfile\zalo\Zalo Received Files\WinFormsApp3 (1)\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.pdb
+D:\programfile\zalo\Zalo Received Files\WinFormsApp3 (1)\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.genruntimeconfig.cache
+D:\programfile\zalo\Zalo Received Files\WinFormsApp3 (1)\WinFormsApp3\obj\Debug\net6.0-windows\ref\WinFormsApp3.dll
+C:\Users\ACER\Desktop\WinFormsApp3 (1)\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.exe
+C:\Users\ACER\Desktop\WinFormsApp3 (1)\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.deps.json
+C:\Users\ACER\Desktop\WinFormsApp3 (1)\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\ACER\Desktop\WinFormsApp3 (1)\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.dll
+C:\Users\ACER\Desktop\WinFormsApp3 (1)\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.pdb
+C:\Users\ACER\Desktop\WinFormsApp3 (1)\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\WinFormsApp3 (1)\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.Form1.resources
+C:\Users\ACER\Desktop\WinFormsApp3 (1)\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.Properties.Resources.resources
+C:\Users\ACER\Desktop\WinFormsApp3 (1)\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\WinFormsApp3 (1)\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\WinFormsApp3 (1)\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\WinFormsApp3 (1)\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\ACER\Desktop\WinFormsApp3 (1)\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\WinFormsApp3 (1)\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.dll
+C:\Users\ACER\Desktop\WinFormsApp3 (1)\WinFormsApp3\obj\Debug\net6.0-windows\refint\WinFormsApp3.dll
+C:\Users\ACER\Desktop\WinFormsApp3 (1)\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.pdb
+C:\Users\ACER\Desktop\WinFormsApp3 (1)\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\ACER\Desktop\WinFormsApp3 (1)\WinFormsApp3\obj\Debug\net6.0-windows\ref\WinFormsApp3.dll
+C:\Users\ACER\Desktop\WinFormsApp3 (1) - Copy\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.exe
+C:\Users\ACER\Desktop\WinFormsApp3 (1) - Copy\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.deps.json
+C:\Users\ACER\Desktop\WinFormsApp3 (1) - Copy\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\ACER\Desktop\WinFormsApp3 (1) - Copy\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.dll
+C:\Users\ACER\Desktop\WinFormsApp3 (1) - Copy\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.pdb
+C:\Users\ACER\Desktop\WinFormsApp3 (1) - Copy\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\WinFormsApp3 (1) - Copy\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.Form1.resources
+C:\Users\ACER\Desktop\WinFormsApp3 (1) - Copy\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.Properties.Resources.resources
+C:\Users\ACER\Desktop\WinFormsApp3 (1) - Copy\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\WinFormsApp3 (1) - Copy\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\WinFormsApp3 (1) - Copy\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\WinFormsApp3 (1) - Copy\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\ACER\Desktop\WinFormsApp3 (1) - Copy\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\WinFormsApp3 (1) - Copy\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.dll
+C:\Users\ACER\Desktop\WinFormsApp3 (1) - Copy\WinFormsApp3\obj\Debug\net6.0-windows\refint\WinFormsApp3.dll
+C:\Users\ACER\Desktop\WinFormsApp3 (1) - Copy\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.pdb
+C:\Users\ACER\Desktop\WinFormsApp3 (1) - Copy\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\ACER\Desktop\WinFormsApp3 (1) - Copy\WinFormsApp3\obj\Debug\net6.0-windows\ref\WinFormsApp3.dll
+C:\Users\ACER\Desktop\BTTuan4_3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.exe
+C:\Users\ACER\Desktop\BTTuan4_3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.deps.json
+C:\Users\ACER\Desktop\BTTuan4_3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\ACER\Desktop\BTTuan4_3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.dll
+C:\Users\ACER\Desktop\BTTuan4_3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.pdb
+C:\Users\ACER\Desktop\BTTuan4_3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\BTTuan4_3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.Form1.resources
+C:\Users\ACER\Desktop\BTTuan4_3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.Properties.Resources.resources
+C:\Users\ACER\Desktop\BTTuan4_3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\BTTuan4_3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\BTTuan4_3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\BTTuan4_3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\ACER\Desktop\BTTuan4_3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\BTTuan4_3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.dll
+C:\Users\ACER\Desktop\BTTuan4_3\WinFormsApp3\obj\Debug\net6.0-windows\refint\WinFormsApp3.dll
+C:\Users\ACER\Desktop\BTTuan4_3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.pdb
+C:\Users\ACER\Desktop\BTTuan4_3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\ACER\Desktop\BTTuan4_3\WinFormsApp3\obj\Debug\net6.0-windows\ref\WinFormsApp3.dll
+C:\Users\ACER\Documents\C#\Tuan4_WinForm\BTTuan4_3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.exe
+C:\Users\ACER\Documents\C#\Tuan4_WinForm\BTTuan4_3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.deps.json
+C:\Users\ACER\Documents\C#\Tuan4_WinForm\BTTuan4_3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.runtimeconfig.json
+C:\Users\ACER\Documents\C#\Tuan4_WinForm\BTTuan4_3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.dll
+C:\Users\ACER\Documents\C#\Tuan4_WinForm\BTTuan4_3\WinFormsApp3\bin\Debug\net6.0-windows\WinFormsApp3.pdb
+C:\Users\ACER\Documents\C#\Tuan4_WinForm\BTTuan4_3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\C#\Tuan4_WinForm\BTTuan4_3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.Form1.resources
+C:\Users\ACER\Documents\C#\Tuan4_WinForm\BTTuan4_3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.Properties.Resources.resources
+C:\Users\ACER\Documents\C#\Tuan4_WinForm\BTTuan4_3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\C#\Tuan4_WinForm\BTTuan4_3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\C#\Tuan4_WinForm\BTTuan4_3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\C#\Tuan4_WinForm\BTTuan4_3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.AssemblyInfo.cs
+C:\Users\ACER\Documents\C#\Tuan4_WinForm\BTTuan4_3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\C#\Tuan4_WinForm\BTTuan4_3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.dll
+C:\Users\ACER\Documents\C#\Tuan4_WinForm\BTTuan4_3\WinFormsApp3\obj\Debug\net6.0-windows\refint\WinFormsApp3.dll
+C:\Users\ACER\Documents\C#\Tuan4_WinForm\BTTuan4_3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.pdb
+C:\Users\ACER\Documents\C#\Tuan4_WinForm\BTTuan4_3\WinFormsApp3\obj\Debug\net6.0-windows\WinFormsApp3.genruntimeconfig.cache
+C:\Users\ACER\Documents\C#\Tuan4_WinForm\BTTuan4_3\WinFormsApp3\obj\Debug\net6.0-windows\ref\WinFormsApp3.dll
